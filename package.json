@@ -1,6 +1,6 @@
 {
   "name": "@stridespark/react-modal-dialog",
-  "version": "4.0.6",
+  "version": "4.0.7",
   "description": "A simple, idiomatic, and declarative way to launch modal dialogs in ReactJS",
   "repository": {
     "type": "git",
