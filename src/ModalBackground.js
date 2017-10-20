@@ -59,7 +59,7 @@ export default class ModalBackground extends React.Component {
       width: '100%',
       transition: `opacity ${this.props.duration / 1000}s`,
       WebkitTransition: `opacity ${this.props.duration / 1000}s`,
-      cursor: 'pointer',
+      cursor: 'auto',
     };
 
     const containerStyle = {
@@ -72,7 +72,7 @@ export default class ModalBackground extends React.Component {
       width: '100%',
       transition: `opacity ${this.props.duration / 1000}s`,
       WebkitTransition: `opacity ${this.props.duration / 1000}s`,
-      cursor: 'pointer',
+      cursor: 'auto',
     };
 
     const style = {
